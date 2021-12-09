@@ -91,7 +91,7 @@ Limitations of this analysis would be the lack of insight into genre specificity
 
 Please review my full analysis in [my Jupyter Notebook](./dsc-phase1project-microsoftmoviestudioanalysis-eakland.ipynb) or my [presentation](./DS_Project_Presentation_Eakland.pdf).
 
-For any additional questions, please contact **Ashley Eakland, ashley@eakland.net**
+For any additional questions, please contact **Ashley Eakland, ashley@eakland.net** Thank you!
 
 ## Repository Structure
 
