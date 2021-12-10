@@ -24,7 +24,16 @@ By finding the answers to these questions, I believe I can provide valuable insi
 
 ## Data Understanding
 
-For this analysis, I am utilizing provided datasets from IMDB and Box Office Mojo so that I may analyze to provide insight to Microsoft as they navigate entry into the movie industry. These datasets represent film statistics and performance both with international and domestic releases, spanning many genres and runtime lengths going back to 2010 and all the way up to films yet to be released. Variables include movie titles, ratings, runtimes, genres, and gross profit. Target variable is going to be profit as the main goal behind any business venture is going to be profitability. 
+For this analysis, I am utilizing provided datasets from IMDB and Box Office Mojo so that I may analyze to provide insight to Microsoft as they navigate entry into the movie industry.
+
+IMDB - well known source for film information - utilized 15000 unique titles from:
+* Title Basics dataset of 146,144 items - of these, duplicate titles and missing values discussed in data preparation section
+* Title Ratings dataset of 73,856 title numbers - complete dataset with no missing or duplicated values.
+
+Box Office Mojo - dedicated to tracking box office revenue in an algorithmic manner - utilized 1000 top domestic titles from:
+* Gross Profit Data for 3387 title numbers from both domestic and foreign markets - missing values discussed in data preparation section
+
+These datasets represent film statistics and performance both with international and domestic releases, spanning many genres and runtime lengths going back to 2010 and all the way up to films yet to be released. Variables include movie titles, ratings, runtimes, genres, and gross profit. Target variable is going to be profit as the main goal behind any business venture is going to be profitability. 
 
 For the purpose of this analysis, I will eliminate the movies not yet released as they will not serve in the analysis of profitability. I will look at correlations between ratings, runtimes, genres, and gross profit to see where funds are likely to be best allocated.
 
