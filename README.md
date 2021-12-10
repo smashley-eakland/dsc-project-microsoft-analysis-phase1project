@@ -78,7 +78,7 @@ Limitations of this analysis would be the lack of insight into genre specificity
  
  -As previously stated, ratings are important. There is a positive correlation between higher number of ratings and higher profit. We want to maximize on the number of ratings we are getting as that has a stronger direct correlation to gross profit than average rating, which would logically make sense. Each "vote" is one ticket at the box office, and we want as many ratings as possible.
  
- -Lastly, with a positive correlation between run time and average movie rating coupled with the shown positive correlation between movie runtime and ratings, I would recommend sticking around 120 minutes of runtime for optimal movie performance. 
+ -Lastly, with a positive correlation between run time and average movie rating coupled with the shown positive correlation between movie runtime and ratings, I would recommend sticking around 100, but no longer than minutes of runtime for optimal movie performance. 
  
 * What are some reasons why your analysis might not fully solve the business problem? 
     My analysis may not fully solve the problem as it does not break down which genre specifically is most profitable or which genre specifically ranks the highest due to the challenges I faced.
