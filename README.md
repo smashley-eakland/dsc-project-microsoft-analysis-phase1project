@@ -70,8 +70,8 @@ As I completed my cleaning steps of the dataframes, I utilized the visualization
 
 ![Average Rating by Runtime](./images/avg_rating_runtime.png)
 ![Number of Votes by Runtime](./images/num_votes_runtime.png)
-![Zoomed In View of Average Rating by Runtime seen Above](./images//images/avg_rating_runtime_alt.png)
-![Zoomed In View of Number of Ratings by Runtime Seen Above](./images/num_votes_runtime alt.png)
+![Zoomed In View of Average Rating by Runtime seen Above](./images/avg_rating_runtime_alt.png)
+![Zoomed In View of Number of Ratings by Runtime Seen Above](./images/num_votes_runtime_alt.png)
 
 
 ### Rating Importance
